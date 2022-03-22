@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactproject-bad_characters/static/css/main.2af03f63.css",
+    "main.js": "/reactproject-bad_characters/static/js/main.e71bf2d4.js",
+    "static/media/spinner.gif": "/reactproject-bad_characters/static/media/spinner.11d9cde8ebaeadb07ba7.gif",
+    "static/media/bg.jpg": "/reactproject-bad_characters/static/media/bg.085908ea8f76e1ae1806.jpg",
+    "index.html": "/reactproject-bad_characters/index.html",
+    "main.2af03f63.css.map": "/reactproject-bad_characters/static/css/main.2af03f63.css.map",
+    "main.e71bf2d4.js.map": "/reactproject-bad_characters/static/js/main.e71bf2d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2af03f63.css",
+    "static/js/main.e71bf2d4.js"
+  ]
+}
